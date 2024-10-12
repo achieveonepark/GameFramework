@@ -1,0 +1,25 @@
+{
+  "name": "com.achieve.unity-mvc",
+  "displayName": "Unity MVC",
+  "author": "Achieveone",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "A save feature has been implemented using MemoryPack, storing data in binary file format.",
+  "keywords": [
+    "Data",
+    "Save"
+  ],
+  "dependencies": {
+    "com.unity.test-framework": "1.0.16",
+    "com.achieve.memory-pack": "https://github.com/achieveonepark/MemoryPack.git#1.21.1"
+  },
+  "documentationUrl": "https://achieveonepark.github.io/cording-library/Documents/QuickSave/QuickSave",
+  "changelogUrl": "https://github.com/achieveonepark/QuickSave/blob/main/CHANGELOG.md",
+  "repository": {
+    "url": "https://github.com/achieveonepark/QuickSave",
+    "type": "git"
+  },
+  "_upm": {
+    "changelog": "## Added\n- Package release"
+  }
+}
