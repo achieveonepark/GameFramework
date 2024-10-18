@@ -10,8 +10,7 @@
     "Save"
   ],
   "dependencies": {
-    "com.unity.test-framework": "1.0.16",
-    "com.achieve.memory-pack": "https://github.com/achieveonepark/MemoryPack.git#1.21.1"
+    "com.unity.test-framework": "1.0.16"
   },
   "documentationUrl": "https://achieveonepark.github.io/cording-library/Documents/QuickSave/QuickSave",
   "changelogUrl": "https://github.com/achieveonepark/QuickSave/blob/main/CHANGELOG.md",

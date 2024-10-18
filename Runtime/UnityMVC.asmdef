@@ -1,0 +1,16 @@
+{
+    "name": "UnityMVC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1ba47f4cd19eaa8419849610b7f00de4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
