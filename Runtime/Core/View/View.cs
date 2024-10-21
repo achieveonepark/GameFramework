@@ -32,7 +32,7 @@ namespace Achieve.UnityMVC
 
         public void ASD()
         {
-            new ViewMediator();
+            //new ViewMediator();
         }
 
         public virtual void RegisterObserver(string notificationName, IObserver observer)

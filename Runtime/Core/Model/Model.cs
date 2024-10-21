@@ -4,7 +4,7 @@ using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 
-namespace Achieve.UnityMVC
+namespace GameFramework
 {
     public class Model
     {
