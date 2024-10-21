@@ -30,6 +30,11 @@ namespace Achieve.UnityMVC
             return instance;
         }
 
+        public void ASD()
+        {
+            new ViewMediator();
+        }
+
         public virtual void RegisterObserver(string notificationName, IObserver observer)
         {
             if (observerMap.TryGetValue(notificationName, out var observers))

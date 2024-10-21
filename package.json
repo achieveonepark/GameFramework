@@ -1,13 +1,12 @@
 {
-  "name": "com.achieve.unity-mvc",
-  "displayName": "Unity MVC",
+  "name": "com.achieve.game-framework",
+  "displayName": "Game Framework",
   "author": "Achieveone",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "A save feature has been implemented using MemoryPack, storing data in binary file format.",
+  "description": "Game frameworks available for use in Unity.",
   "keywords": [
-    "Data",
-    "Save"
+    "Framewrok",
   ],
   "dependencies": {
     "com.unity.test-framework": "1.0.16"
