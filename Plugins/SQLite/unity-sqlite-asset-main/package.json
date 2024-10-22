@@ -1,0 +1,15 @@
+{
+  "name": "com.gilzoide.sqlite-asset",
+  "displayName": "SQLite Asset",
+  "version": "1.0.0-preview2",
+  "description": "Import \".sqlite\", \".sqlite2\" and \".sqlite3\" files as read-only SQLite database assets.",
+  "homepage": "https://github.com/gilzoide/unity-sqlite-asset",
+  "license": "Unlicense",
+  "author": {
+    "name": "Gil Barbosa Reis"
+  },
+  "dependencies": {
+    "com.gilzoide.sqlite-net": "1.0.0-preview6"
+  },
+  "unity": "2017.3"
+}

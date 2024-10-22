@@ -4,7 +4,7 @@ using System.Collections.Concurrent;
 using PureMVC.Interfaces;
 using PureMVC.Patterns.Observer;
 
-namespace Achieve.UnityMVC
+namespace GameFramework
 {
     public class View : IView
     {

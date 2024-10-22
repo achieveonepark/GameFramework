@@ -1,0 +1,19 @@
+{
+    "name": "Gilzoide.SqliteAsset.Editor",
+    "rootNamespace": "Gilzoide.SqliteAsset.Editor",
+    "references": [
+        "Gilzoide.SqliteAsset",
+        "Gilzoide.SqliteNet"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

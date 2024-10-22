@@ -2,7 +2,11 @@
     "name": "GameFramework",
     "rootNamespace": "",
     "references": [
-        "GUID:1ba47f4cd19eaa8419849610b7f00de4"
+        "GUID:1ba47f4cd19eaa8419849610b7f00de4",
+        "GUID:df2a24f83ece042be84d3276a68393ed",
+        "GUID:aed8d7317cce44904bbc53d7eb6147f8",
+        "GUID:17f96cd3b93974f6493e51a2f25c1241",
+        "GUID:27ce8faacdde34e508755900548477aa"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
